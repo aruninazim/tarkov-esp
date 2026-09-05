@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>TarkovEsp.Core</RootNamespace>
+    <AssemblyName>TarkovEsp.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
